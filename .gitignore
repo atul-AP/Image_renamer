@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build and distribution directories
+build/
+dist/
+
+# Pytest cache and test coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local test environment directories
+test_dirs/
